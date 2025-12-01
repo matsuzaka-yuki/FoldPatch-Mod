@@ -7,14 +7,32 @@
   },
   {
     "name": "Neo Zygisk",
-    "version": "2.2",
+    "version": "2.2-269-b0ed8f5",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
     "description": "一个轻量化的Zygisk基底模块,适配多种ROOT方案."
+  },
+  {
+    "name": "Sui for zygisk",
+    "version": "13.5.1",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/sui-zygisk-v13.5.1-release.zip",
+    "description": "基于Zygisk去实现直接使用Shizuku api去调用系统API,兼容Shizuku的大部分生态!s"
   },
   {
     "name": "LSPosed",
     "version": "1.9.2-lrena-去日志版",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/LSPosed-v1.9.2-7280-Irena-.zip",
     "description": "基于Zygisk的Xposed Hook管理器,轻松使用各种XP模块"
+  },
+  {
+    "name": "帝(DI)",
+    "version": "1.0",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/xc/DI.zip",
+    "description": "黑厂专用！主模块与所有第三方线程，温控，触控模块冲突！"
+  },
+    {
+    "name": "NeoBattery",
+    "version": "4.3",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/sd/NeoBattery_4.2.zip",
+    "description": "🔋电池效率✙✙✙，增加电池使用效率，降低日常使用功耗，不损耗性能。可通过执行按钮启用LIFE模式：降低最大CPU频率 牺牲部分性能换取更长续航"
   }
 ]
