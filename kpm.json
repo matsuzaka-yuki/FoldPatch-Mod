@@ -21,7 +21,7 @@
     "name": "NoMagisk",
     "version": "v2.0",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/kpm/NoMagisk_v2.0.kpm",
-    "description": "一个隐藏挂载的kpm，它接管APatch的排除功能，可以使得挂载模块完美像原生一样。”"
+    "description": "一个隐藏挂载的kpm，它接管APatch的排除功能，可以使得挂载模块完美像原生一样"
   },
   {
     "name": "CriticalPartitionProtect",
