@@ -18,10 +18,16 @@
     "description": "一个多功能的Zygisk基底模块,适配多种ROOT方案."
   },
   {
+    "name": "Zygisk-微信支付",
+    "version": "v36",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/Zygisk-wxzf-v36.zip",
+    "description": "为TEE假死或有问题的设备回归微信支付功能"
+  },
+  {
     "name": "Sui for zygisk",
     "version": "13.5.1",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/sui-zygisk-v13.5.1-release.zip",
-    "description": "基于Zygisk去实现直接使用Shizuku api去调用系统API,兼容Shizuku的大部分生态!s"
+    "description": "基于Zygisk去实现直接使用Shizuku api去调用系统API,兼容Shizuku的大部分生态!"
   },
   {
     "name": "LSPosed",
@@ -34,6 +40,12 @@
     "version": "1.0",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/xc/DI.zip",
     "description": "黑厂专用！主模块与所有第三方线程，温控，触控模块冲突！"
+  },
+  {
+    "name": "骁龙8Elite日用线程优化R2",
+    "version": "1.0-r2",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/xc/8Elite.R2.zip",
+    "description": "为骁龙8Elite优化日常线程，提高性能，降低功耗"
   },
     {
     "name": "NeoBattery",
