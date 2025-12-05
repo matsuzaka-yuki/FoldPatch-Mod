@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>配置文件编辑器</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>配置文件编辑器</h1>
+            <div class="controls">
+                <select id="file-selector">
+                    <option value="" disabled selected>选择文件...</option>
+                </select>
+                <button id="add-btn" class="primary-btn" disabled>+ 添加项目</button>
+            </div>
+        </header>
+
+        <main id="content-area">
+            <div class="empty-state">请选择一个文件开始编辑</div>
+        </main>
+    </div>
+
+    <!-- 编辑/添加 模态框 -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <h2 id="modal-title">添加项目</h2>
+            <form id="item-form">
+                <div class="form-group">
+                    <label for="name">名称 (Name)</label>
+                    <input type="text" id="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="version">版本 (Version)</label>
+                    <input type="text" id="version" required>
+                </div>
+                <div class="form-group">
+                    <label for="url">链接 (URL)</label>
+                    <input type="url" id="url" required>
+                </div>
+                <div class="form-group">
+                    <label for="description">描述 (Description)</label>
+                    <textarea id="description" rows="3"></textarea>
+                </div>
+                <div class="modal-actions">
+                    <button type="button" id="cancel-btn" class="secondary-btn">取消</button>
+                    <button type="submit" class="primary-btn">保存</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div id="toast" class="toast hidden">操作成功</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

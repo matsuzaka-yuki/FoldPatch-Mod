@@ -11,7 +11,7 @@
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
     "description": "一个轻量化的Zygisk基底模块,适配多种ROOT方案."
   },
-   {
+  {
     "name": "ReZygisk",
     "version": "1.0.0-437-3c9e94a",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/ReZygisk-v1.0.0-437-3c9e94a-release.zip",
@@ -47,7 +47,7 @@
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/xc/8Elite.R2.zip",
     "description": "为骁龙8Elite优化日常线程，提高性能，降低功耗"
   },
-    {
+  {
     "name": "NeoBattery",
     "version": "4.3",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/sd/NeoBattery_4.2.zip",
