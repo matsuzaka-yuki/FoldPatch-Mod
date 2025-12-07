@@ -58,5 +58,12 @@
     "version": "1.0-r2",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/xc/8Elite.R2.zip",
     "description": "为骁龙8Elite优化日常线程，提高性能，降低功耗"
+  }，
+  {
+    "name": "FunBox",
+    "version": "v1321",
+    "url":"",
+    "description": "QQ/微信/TIM表情包模块,支持在QQ/微信/TIM中使用表情面板和语音面板以保存和发送表情和语音
+点击action按钮可以管理作用域 需要zygisk环境才能加载,请确保你安装并启用了zygisk"
   }
 ]
