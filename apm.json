@@ -85,13 +85,13 @@
   },
     {
     "name":"TrickyStore",
-    "version":"1.4.1",
+    "version":"v1.4.1",
     "url":"https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip",
     "description":"此模块用于修改为安卓密钥认证生成的证书链"
   },
   {
     "name":"Tricky-Addon-Update-Target-List",
-    "version":"4.3",
+    "version":"v4.3",
     "url":"https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.3/TrickyAddonModule-v4.3.zip",
     "description":"是一个基于 KSU WebUI 的工具模块，用于方便地配置 Tricky Store 的 target.txt 文件，支持图形化界面操作和多种安全相关功能"
   },
@@ -100,5 +100,11 @@
     "version":"1.47",
     "url":"https://github.com/yinwanxi/Uperf-Game-Turbo/releases/download/Uperf-Game-Turbo.1.47/Uperf_Game_Turbo-1.47.zip",
     "description":"Uperf Game Turbo 是一个 Android 用户态性能控制器，通过场景识别和动态调度来优化设备性能，特别适合游戏加速与系统流畅度提升"
+  },
+  {
+    "name":"Yamabukiko",
+    "version":"v7.3.0-rc2",
+    "url":"https://github.com/zhuzhuzihan/FolkPatch-Mod/releases/download/module/Yamabukiko-v7.3.0-79-c6528d1-rc2.zip",
+    "description":"此模块用于root之后环境的隐藏，帮助受歧视的root用户通过一些软件的检测。"
   }
 ]
